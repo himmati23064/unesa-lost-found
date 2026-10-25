@@ -1,0 +1,6 @@
+{
+  "name": "UNESA Lost & Found",
+  "description": "Aplikasi pelaporan dan pencocokan cerdas barang hilang dan temuan untuk civitas akademika Universitas Negeri Surabaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
